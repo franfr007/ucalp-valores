@@ -1,0 +1,26 @@
+{
+  "version": "2025-12",
+  "fecha_actualizacion": "Diciembre 2025",
+  "valores_hora": {
+    "TITULAR": 10126,
+    "TITULAR INTERINO": 10126,
+    "ADJUNTO A CARGO": 10126,
+    "ASOCIADO": 7719,
+    "ASOCIADO INTERINO": 7719,
+    "ADJUNTO": 6391,
+    "ADJUNTO INTERINO": 6391,
+    "JTP": 4980
+  },
+  "bonif_carga": [
+    { "min": 0, "max": 23, "pct": 0 },
+    { "min": 24, "max": 32, "pct": 0.10 },
+    { "min": 33, "max": 9999, "pct": 0.15 }
+  ],
+  "bonif_antiguedad": [
+    { "min": 1, "max": 5, "pct": 0.12 },
+    { "min": 6, "max": 10, "pct": 0.15 },
+    { "min": 11, "max": 15, "pct": 0.20 },
+    { "min": 16, "max": 20, "pct": 0.31 },
+    { "min": 21, "max": 99, "pct": 0.43 }
+  ]
+}
