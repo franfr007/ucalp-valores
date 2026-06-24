@@ -3,13 +3,13 @@
   "fecha_actualizacion": "Marzo 2026",
   "valores_hora": {
     "TITULAR": 11138.6,
-    "TITULAR INTERINO": 11138.6,
-    "ADJUNTO A CARGO": 11138.6,
-    "ASOCIADO": 8490.9,
-    "ASOCIADO INTERINO": 8490.9,
-    "ADJUNTO": 7030.1,
-    "ADJUNTO INTERINO": 7030.1,
-    "JTP": 5478
+    "TITULAR INTERINO": 11752.8,
+    "ADJUNTO A CARGO": 11752.8,
+    "ASOCIADO": 8959.85,
+    "ASOCIADO INTERINO": 8959.85,
+    "ADJUNTO": 7420.2,
+    "ADJUNTO INTERINO": 7420.2,
+    "JTP": 5780.95
   },
   "bonif_carga": [
     { "min": 0, "max": 23, "pct": 0 },
