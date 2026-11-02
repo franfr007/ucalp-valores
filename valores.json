@@ -1,15 +1,15 @@
 {
-  "version": "2026-06",
-  "fecha_actualizacion": "Junio 2026",
+  "version": "2026-10",
+  "fecha_actualizacion": "Octubre 2026",
   "valores_hora": {
     "TITULAR": 12340.44,
-    "TITULAR INTERINO": 12340.44,
-    "ADJUNTO A CARGO": 12340.44,
-    "ASOCIADO": 9407.84,
-    "ASOCIADO INTERINO": 9407.84,
-    "ADJUNTO": 7791.21,
-    "ADJUNTO INTERINO": 7791.21,
-    "JTP": 6070
+    "TITULAR INTERINO": 13864.48,
+    "ADJUNTO A CARGO": 13864.48,
+    "ASOCIADO": 10569.28,
+    "ASOCIADO INTERINO": 10569.28,
+    "ADJUNTO": 8753.42,
+    "ADJUNTO INTERINO": 8753.42,
+    "JTP": 6819.64
   },
   "bonif_carga": [
     { "min": 0, "max": 23, "pct": 0 },
